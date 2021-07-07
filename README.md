@@ -17,8 +17,8 @@
   </div>
   <div align="center" style="margin: 20px 0">    
     <p style="margin: 10px 0; font-size: 18px">📫 How to reach me:</p>
-    <a cursor="pointer" href="https://www.linkedin.com/in/yuliia-batova"><img width='110px' height='28px' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-    <a cursor="pointer" href="https://t.me/yuliia_batova"><img width='110px' height='28px' src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Linkedin"></a>
-    <a cursor="pointer" href="mailto:yuliiabatova@gmail.com"><img width='110px' height='28px' src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>    
+    <a cursor="pointer" target="_blank" href="https://www.linkedin.com/in/yuliia-batova"><img width='110px' height='28px' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+    <a cursor="pointer" target="_blank" href="https://t.me/yuliia_batova"><img width='110px' height='28px' src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Linkedin"></a>
+    <a cursor="pointer" target="_blank" href="mailto:yuliiabatova@gmail.com"><img width='110px' height='28px' src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>    
   </div>
 </div>
