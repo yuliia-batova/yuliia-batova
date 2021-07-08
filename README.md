@@ -1,7 +1,7 @@
 <div>
   <h1>Hi, I'm Yuliia!👋</h1>
   <p style="margin: 20px 0; font-size: 20px;">Welcome to my page!</p>
-  <p style="margin: 20px 0; font-size: 20px">I'm a beginner front-end developer, I love numbers, challenging problems and teamwork.</p>  
+  <p style="margin: 20px 0; font-size: 20px">I'm a beginner markup developer, I love numbers, challenging problems and teamwork.</p>  
   <div style="margin: 20px 0">
    <p style="margin: 8px 0; font-size: 18px">Technical Stack:</p>
      <ul>
