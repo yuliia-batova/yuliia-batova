@@ -1,18 +1,16 @@
 <div>
   <h1>Hi, I'm Yuliia!👋</h1>
   <p style="margin: 20px 0; font-size: 20px;">Welcome to my page!</p>
-  <p style="margin: 20px 0; font-size: 20px">I'm a beginner markup developer, I love numbers, challenging problems and teamwork.</p>  
+  <p style="margin: 20px 0; font-size: 20px">I'm an HTML/CSS Developer with 5+ years of commercial experience.</p>  
   <div style="margin: 20px 0">
    <p style="margin: 8px 0; font-size: 18px">Technical Stack:</p>
      <ul>
-       <li style="list-style: none">HTML/CSS;</li>
-       <li style="list-style: none">Javascript is basic;</li>
-       <li style="list-style: none">jQuery is basic;</li>
-       <li style="list-style: none">Gulp;</li>
-       <li style="list-style: none">SASS/SCSS;</li>
-       <li style="list-style: none">Git;</li>
-       <li style="list-style: none">Responsive, Pixel perfect layout of sites by layouts (PSD, Figma);</li>
-       <li style="list-style: none">BEM.</li>
+       <li style="list-style: none">HTML/CSS/Tailwind CSS;</li>
+       <li style="list-style: none">Responsive & Mobile-First Design (PSD, Figma);</li>
+       <li style="list-style: none">BEM;</li>         
+       <li style="list-style: none">Git (GitHub/Bitbucket);</li>   
+       <li style="list-style: none">Jira;</li>   
+       <li style="list-style: none">JavaScript & React (In Progress).</li>   
      </ul>
   </div>
   <div align="center" style="margin: 20px 0">    
